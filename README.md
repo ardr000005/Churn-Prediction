@@ -12,7 +12,6 @@ This repository contains an **Artificial Neural Network (ANN)** model to predict
 ## 💂️ Files
 - `Churn_Modelling.csv` → Dataset
 - `churn_prediction.ipynb` → Jupyter Notebook for training the ANN.
-- `bank.keras` → Saved trained ANN model.
 
 ---
 
